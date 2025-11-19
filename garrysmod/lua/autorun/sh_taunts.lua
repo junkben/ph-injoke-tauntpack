@@ -11,11 +11,14 @@ local FILE_EXT     = ".ogg"
 local taunts       = {
     [TEAM_HUNTERS] = {},
     [TEAM_PROPS] = {
-        ["Jesus Is the Bread 3"]                        = "jesus-is-the-bread",
+        ["Augh - Pufferfish"]                           = "augh",
+        ["Better Call Saul"]                            = "better-call-saul",
+        ["Jesus is the Bread"]                          = "jesus-is-the-bread",
         ["Lil Kiddo Fucking Dies"]                      = "lil-kiddo-fucking-dies",
         ["Spiderman 3 Fart Jump With Scooby Doo Laugh"] = "spiderman-3-fart-jump-with-scooby-doo-laugh",
-        ["Turn That Poop Into Wine"]                    = "turn-that-poop-into-wine",
-        ["Watch Your Profanity"]                        = "watch-your-profanity"
+        ["This guy moaned at least this load..."]       = "this-guy-moaned-at-least-this-loud",
+        ["Turn that poop into wine"]                    = "turn-that-poop-into-wine",
+        ["Watch your profanity"]                        = "watch-your-profanity"
     }
 }
 

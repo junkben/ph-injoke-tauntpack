@@ -13,6 +13,7 @@ local taunts       = {
     [TEAM_PROPS] = {
         ["Augh - Pufferfish"] = "augh",
         ["Better Call Saul"] = "better-call-saul",
+        ["Bing chilling🥶👌👌"] = "bing-chilling",
         ["Elmo crashout"] = "elmo-crashout",
         ["Fart with Reverb"] = "fart-with-reverb",
         ["Jesus is the Bread"] = "jesus-is-the-bread",
